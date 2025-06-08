@@ -80,3 +80,6 @@ struct Bid {
         Then calls withdrawContractFunds() to collect proceeds.
 
 Note: This contract is designed for educational or testnet purposes. Always audit smart contracts before deploying on mainnet.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
